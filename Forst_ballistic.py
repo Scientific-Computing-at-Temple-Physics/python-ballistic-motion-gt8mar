@@ -30,9 +30,9 @@ ftime= round(max(xlist)/vx,3)
 
 # print ("The x values are", xlist)
 # print ("The y values are", ylist,". This is the distance to the ground.")
-print ("The Highest point is", High)
-print ("The flight time is", ftime, "seconds")
-print ("The distance traveled along the ground is", x)
+print ("The Highest point is", High, "meters.")
+print ("The flight time is", ftime, "seconds.")
+print ("The distance traveled along the ground is", x, "meters.")
 # Outputs: Highest point, distance to ground, flight time, plot of xy (optional)
 
 
